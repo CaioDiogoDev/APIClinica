@@ -1,0 +1,42 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos gerados durante o desenvolvimento
+*.user
+*.suo
+*.sdf
+*.opensdf
+
+# Arquivos de log e relatórios
+*.log
+*.log.*
+*.nupkg
+*.pdb
+*.idb
+[Tt]est[Rr]esult*
+
+# Diretórios de saída
+[Dd]ebug/
+[Rr]elease/
+packages/
+
+# Ferramentas de compilação
+_ReSharper*/
+*.resharper
+[Tt]humbs.db
+[Tt]est[Rr]esult*/
+
+# Arquivos de configuração
+*.swp
+*.swo
+*~.nib
+*.plist
+*.userprefs
+*.csproj.user
+*.pidb
+*.suo
+*. suo
+*.user
+*.userosscache
+*.scc
